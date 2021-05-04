@@ -1,0 +1,5 @@
+dic1=dict.fromkeys(('a','b'),1);print(dic1)
+dic2=dict.fromkeys(['a','b'],1);print(dic2)
+dic3=dict.fromkeys('abc',1);print(dic3)
+dic4=dict.fromkeys(['a','a','b']);print(dic4)
+dic5=dict.fromkeys([('a',1),('a',1)]);print(dic5)
